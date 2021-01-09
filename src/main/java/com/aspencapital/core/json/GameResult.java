@@ -1,6 +1,6 @@
 package com.aspencapital.core.json;
 
-import com.aspencapital.core.model.Player;
+import com.aspencapital.core.model.generic.Player;
 import lombok.Getter;
 import lombok.Setter;
 

@@ -1,6 +1,6 @@
 package com.aspencapital.core.model.war;
 
-import com.aspencapital.core.model.Player;
+import com.aspencapital.core.model.generic.Player;
 import com.aspencapital.core.json.GameResult;
 import com.aspencapital.core.model.classic.ClassicCard;
 import com.aspencapital.core.model.generic.CardGame;

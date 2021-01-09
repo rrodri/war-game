@@ -3,6 +3,7 @@ package com.aspencapital.core.model;
 import com.aspencapital.core.model.classic.ClassicCard;
 import com.aspencapital.core.model.generic.CardGame;
 import com.aspencapital.core.model.generic.GameType;
+import com.aspencapital.core.model.generic.Player;
 import com.aspencapital.core.model.war.WarGame;
 import com.aspencapital.sql.repository.PlayerRepository;
 import com.aspencapital.core.util.GameUtils;

@@ -1,6 +1,5 @@
-package com.aspencapital.core.model;
+package com.aspencapital.core.model.generic;
 
-import com.aspencapital.core.model.generic.Card;
 import lombok.Getter;
 
 import java.util.LinkedList;

@@ -1,6 +1,5 @@
 package com.aspencapital.core.model.generic;
 
-import com.aspencapital.core.model.Player;
 import com.aspencapital.core.json.GameResult;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
