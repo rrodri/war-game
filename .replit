@@ -1,0 +1,2 @@
+language = "java11"
+run="mvn package && java -jar target/war-1.0.jar"
