@@ -20,6 +20,7 @@ exhibiting testing.
 How To Run:
 --
 - Step 1: Please wake up the Repl project by going to https://repl.it/@rrodri/war-game.
+    - Sometimes the Repl site package manager needs to re-download dependencies and they do not completely load in time for the build to succeed. Sometimes you need to "Start" twice or thrice in order to allow all dependencies to properly download. This issue is not with the build -- it's an issue with the Repl.it
 - Step 2: Once the repl has been woken up the project's Swagger link can be accessed via https://war-game.rrodri.repl.co
 or https://war-game.rrodri.repl.co/swagger-ui.html.
 
