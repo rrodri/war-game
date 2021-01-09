@@ -53,5 +53,5 @@ Game:
 --
 The game has been modified slightly to shorten the number of rounds played. When cards are put down on the table, they are
 shuffled prior to being placed at the bottom of the winner's hand when war is won. This increased randomness removes any
-win-loss cycles, which can cause the game to potentially last forever.
+win-loss cycles, not removing these cycles can cause the game to potentially last forever (or at least much longer).
 
